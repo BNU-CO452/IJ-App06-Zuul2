@@ -1,8 +1,16 @@
+/**
+ *
+ */
 public class Main
 {
+    private static Game zuul;
 
+    /**
+     *
+     * @param args
+     */
     public static void main(String[] args)
     {
-        // write your code here
+        zuul = new Game();
     }
 }
