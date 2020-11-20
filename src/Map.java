@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 /**
- *
+ *  This is a comment
  */
 public class Map
 {

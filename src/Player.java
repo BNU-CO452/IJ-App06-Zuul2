@@ -10,4 +10,12 @@ public class Player
         score = 0;
         count = 0;
     }
+
+    /**
+     *
+     */
+    public void print()
+    {
+        System.out.println("Player : " + name);
+    }
 }
