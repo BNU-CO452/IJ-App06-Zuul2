@@ -4,6 +4,10 @@ public class Player
     private int score;
     private int count;
 
+    /**
+     * Added another comment
+     * @param name
+     */
     public Player(String name)
     {
         this.name = name;
