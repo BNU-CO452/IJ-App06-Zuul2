@@ -21,5 +21,6 @@ public class Player
     public void print()
     {
         System.out.println("Player : " + name);
+        System.out.println();
     }
 }
