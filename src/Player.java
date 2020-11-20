@@ -12,7 +12,7 @@ public class Player
     {
         this.name = name;
         score = 0;
-        count = 0;
+        count = 10;
     }
 
     /**
