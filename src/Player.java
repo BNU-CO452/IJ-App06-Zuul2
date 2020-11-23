@@ -1,6 +1,9 @@
+/**
+ *
+ */
 public class Player
 {
-    private String name;
+    private final String name;
     private int score;
     private int count;
 
@@ -12,7 +15,6 @@ public class Player
     {
         this.name = name;
         score = 0;
-        count = 10;
     }
 
     /**
